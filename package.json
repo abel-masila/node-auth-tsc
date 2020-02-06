@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npm run  dev --prefix api",
+    "postup": "yarn run dev",
     "up": "mkdir -p data && docker-compose up -d",
     "stop": "docker-compose stop",
     "down": "docker-compose down"
