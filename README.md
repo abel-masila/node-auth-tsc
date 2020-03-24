@@ -4,9 +4,9 @@ Authentication boilerplate in Node.js with security and scalability in mind.
 
 ## Features
 
-- [x] login/logout/register + session expiry
-- [x] email verification (`"Confirm your email"`)
-- [x] password reset (`"Forgot password"`)
+- [ ] login/logout/register + session expiry
+- [ ] email verification (`"Confirm your email"`)
+- [ ] password reset (`"Forgot password"`)
 - [ ] password confirmation (`"Re-enter your password"`)
 - [ ] persistent login (`"Remember me"`)
 - [ ] account lockout (`"Too many failed login attempts"`)
